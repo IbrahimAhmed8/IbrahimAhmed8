@@ -5,4 +5,4 @@
   <img src="https://media1.tenor.com/m/X2CBinl9C4wAAAAd/mark-mark-zuckerberg.gif" width="400" alt="Mark Zuckerberg GIF">
 </p>
 
-<p align="center"> Frontend Developer | Designer | Learner</p>
+<p align="center"> Software Developer | Designer | Learner</p>

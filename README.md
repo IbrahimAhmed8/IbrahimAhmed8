@@ -11,11 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://u8views.com/github/IbrahimAhmed8">
-    <img src="https://u8views.com/api/v1/github/profiles/148325606/views/day-week-month-total-count.svg" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IbrahimAhmed8&theme=meta-dark&hide_border=true" />
-</p>
+</p>                          
+       
